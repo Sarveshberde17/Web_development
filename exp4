@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML List Tags</title>
+</head>
+<body> 
+
+<h2>Name: Sarvesh Berde<br>
+    Roll No: 7
+</h2>
+
+<h1>HTML List Examples</h1>
+
+<h2>Unordered List</h2>
+<h3>fruits</h3>
+<ul>
+    <li>Apple
+        <ul>
+            <li>red apple</li>
+            <li>green apple</li>
+        </ul>
+    </li>
+    <li>strawberry</li>
+    <li>Cherry</li>
+</ul>
+
+<h2>Nested List</h2>
+<ul>
+    <li>Pets
+        <ul>
+            <li>Dog</li>
+            <li>Cat</li>
+        </ul>
+    </li>
+    <li>Cities
+        <ul>
+            <li>Kolhapur</li>
+            <li>Pune</li>
+        </ul>
+    </li>
+</ul>
+
+<h2>Ordered List</h2>
+<h3>Frontend Languages</h3>
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ol>
+
+<h3>Backend Languages</h3>
+<ol>
+    <li>Python</li>
+    <li>Java</li>
+    <li>C#</li>
+</ol>
+
+</body>
+</html>
